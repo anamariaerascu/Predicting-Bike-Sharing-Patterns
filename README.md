@@ -1,5 +1,4 @@
 # Udacity DLND Predicting Bike Sharing Patterns
-Udacity Deep Learning Nanodegree - Introduction to NN project
 
 **Predicting Bike Sharing Patterns** is a Udacity's first project from the Deep Learning Nanodegree.
 
