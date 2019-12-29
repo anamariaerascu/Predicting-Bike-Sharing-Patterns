@@ -1,6 +1,6 @@
 # Udacity DLND Predicting Bike Sharing Patterns
 
-**Predicting Bike Sharing Patterns** is a Udacity's first project from the Deep Learning Nanodegree.
+**Predicting Bike Sharing Patterns** is Udacity's first project from the Deep Learning Nanodegree.
 
 ## Objective
 Implement the forward pass and backward pass in Python using Jupyter Notebooks.
