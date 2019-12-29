@@ -2,6 +2,8 @@
 
 **Predicting Bike Sharing Patterns** is Udacity's first project from the Deep Learning Nanodegree.
 
+Original repo of this project can be found [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing).
+
 ## Objective
 Implement the forward pass and backward pass in Python using Jupyter Notebooks.
 
